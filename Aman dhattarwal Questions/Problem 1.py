@@ -1,4 +1,4 @@
-"""A simple python program to return the words form a file whose length is less than 4 (trailing whitespaces and delimiter case included)"""
+"""A simple python program to return the words from a file whose length is less than 4 (trailing whitespaces and delimiter case included)"""
 def DISPLAYWORDS(file):
     "Returns the words from a file whose length is less than 4 (removes extra whitespaces)"
     f = open(file, 'r')
